@@ -7,7 +7,7 @@
 
 # Lambda Layers
 layers/**/python/
-*.zip
+
 
 # Python
 __pycache__/
